@@ -1,0 +1,23 @@
+{
+    "admin": [{
+            "ruta": "usuarios",
+            "icon": "usuarios",
+            "texto": "Personal de GAOS..."
+        },
+        {
+            "ruta": "pedidos",
+            "icon": "pedidos",
+            "texto": "Sobre los pedidos..."
+        },
+        {
+            "ruta": "encargos",
+            "icon": "encargos",
+            "texto": "Sobre los encargos..."
+        }
+    ],
+    "worker": [{
+        "ruta": "pedidos",
+        "icon": "pedidos",
+        "texto": "Sobre los pedidos..."
+    }]
+}
